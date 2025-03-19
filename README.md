@@ -1,4 +1,4 @@
-# SQL Portfolio Projects
+# SQL Project Portfolio
 
 Welcome to my SQL portfolio! This repository showcases various SQL projects I have worked on, covering data analysis, querying, and optimization techniques. Below, you will find descriptions of my projects along with key insights and SQL scripts used to analyze different datasets.
 
