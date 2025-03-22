@@ -4,12 +4,12 @@ Welcome to my SQL portfolio! This repository showcases various SQL projects I ha
 
 ## Projects
 
-### 1. Exploratory Data Analysis
+### 1. Advanced Data Analysis
 * Dataset: Contains Sales, Products and Customers Table.
 
 * Objective: Analyze Change Over Time Analysis, Cummulative Analysis, Performance Analysis, Data Segmentation, Customer Report and Product Report
 
 * Key SQL Techniques: Window functions, CTEs, JOINs, and aggregate functions.
 
-* SQL Script: [Exploratory Data Analysis](https://github.com/shaulamarquez/SQL-Portfolio/blob/main/Exploratory%20Data%20Analysis/Exploratory%20Data%20Analysis.sql)
+* SQL Script: [Advanced Data Analysis](https://github.com/shaulamarquez/SQL-Project-Portfolio/blob/main/Advanced%20Data%20Analysis/Advanced%20Data%20Analysis.sql)
    
