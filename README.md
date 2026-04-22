@@ -37,6 +37,17 @@ Ideal for professionals in:
 
 * Business Intelligence
 
+### Integration Model
+<img width="1269" height="694" alt="Integration Model" src="https://github.com/user-attachments/assets/1a3c0256-c642-48b6-8d32-238e12952146" />
+
+### Data Flow Diagram
+<img width="856" height="767" alt="Data Flow Diagram" src="https://github.com/user-attachments/assets/162c88c1-a9ee-420f-8d78-c78b9351e240" />
+
+### Sales Data Mart
+<img width="1210" height="751" alt="Sales Data Mart" src="https://github.com/user-attachments/assets/4749bc5e-fcc1-4497-93e4-189ed420e031" />
+
+
+
 ### 3. Global COVID-19 Impact Analysis: Deaths and Vaccination Trends | [COVID-19 Impact Analysis](https://github.com/shaulamarquez/Covid-Vaccination)
 
 SQL portfolio dedicated to the analysis of global COVID-19 data, specifically focusing on deaths and vaccination trends. In this repository, I leverage SQL queries to dive into the intricate details of the pandemic's impact worldwide, exploring patterns, correlations, and insights that can be derived from the available data.
